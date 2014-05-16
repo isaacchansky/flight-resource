@@ -1,0 +1,23 @@
+{
+  "name": "flight-resource",
+  "version": "0.1.0",
+  "authors": [
+    "Isaac Chansky <ichansky@gmail.com>"
+  ],
+  "description": "FlightJS mixin for creating RESTful resource backed flight components.",
+  "license": "MIT",
+  "dependencies": {
+    "flight": "1.0.0"
+  },
+  "devDependencies": {
+    "jasmine-jquery": "1.5.0",
+    "flight-jasmine": "1.0.0"
+  },
+  "ignore": [
+    "node_modules",
+    "components",
+    "test",
+    ".travis.yml",
+    "package.json"
+  ]
+}

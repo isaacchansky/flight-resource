@@ -1,0 +1,15 @@
+{
+  "name": "flight-resource",
+  "description": "FlightJS mixin for creating RESTful resource backed flight components.",
+  "version": "0.1.0",
+  "devDependencies": {
+    "karma": "~0.8.5"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/karma start --single-run --browsers PhantomJS"
+  },
+  "license": "MIT"
+}
